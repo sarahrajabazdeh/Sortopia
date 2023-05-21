@@ -9,4 +9,4 @@ You continue this process, comparing and swapping adjacent bubbles, moving from 
 
 This process is repeated until no more bubbles need to be swapped, indicating that the tray is fully sorted. It's like repeatedly going through the tray, comparing and moving bubbles, until they find their rightful place.
 
-Bubble sort is a simple and intuitive algorithm, but it may not be the most efficient for large sets of data. Nonetheless, visualizing it as bubbles floating and swapping their positions can make the concept more engaging and easier to remember.
+The bubble sort algorithm has a worst-case time complexity of O(n^2), where n is the number of elements in the array being sorted. This means that as the size of the array increases, the time taken to sort it grows quadratically. due to its inefficient nature, bubble sort is not recommended for large datasets and is mainly used for educational purposes or when sorting small arrays
